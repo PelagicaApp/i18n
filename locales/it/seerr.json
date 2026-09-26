@@ -15,6 +15,7 @@
     "seerr_episodes_column": "Episodi",
     "seerr_status_column": "Stato",
     "seerr_request_seasons_count_one": "Richiedi {{count}} stagione",
+    "seerr_request_seasons_count_many": "Richiedi {{count}} stagioni",
     "seerr_request_seasons_count_other": "Richiedi {{count}} stagioni",
     "seerr_open_in_seerr": "Apri in Seerr",
     "seerr_open_in_library": "Apri nella libreria",

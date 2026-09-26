@@ -10,6 +10,7 @@
   "seerr_request": "Demander",
   "seerr_request_failed": "Impossible d’envoyer la demande",
   "seerr_request_seasons_count_one": "Demander {{count}} saison",
+  "seerr_request_seasons_count_many": "Demander {{count}} saisons",
   "seerr_request_seasons_count_other": "Demander {{count}} saisons",
   "seerr_request_success": "Demande envoyée",
   "seerr_requesting": "Envoi de la demande...",

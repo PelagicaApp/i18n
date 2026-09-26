@@ -20,6 +20,7 @@
     "next_up": "A seguire",
     "unknown_artist": "Artista sconosciuto",
     "track_count_one": "{{count}} brano",
+    "track_count_many": "{{count}} brani",
     "track_count_other": "{{count}} brani",
     "libraries": "Librerie",
     "recent_episodes": "Episodi recenti",

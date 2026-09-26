@@ -20,6 +20,7 @@
   "next_up": "À suivre",
   "unknown_artist": "Artiste inconnu",
   "track_count_one": "{{count}} piste",
+  "track_count_many": "{{count}} pistes",
   "track_count_other": "{{count}} pistes",
   "libraries": "Bibliothèques",
   "continue_item_alt": "Élément à reprendre",

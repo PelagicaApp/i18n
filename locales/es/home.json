@@ -17,6 +17,7 @@
   "because_you_watched": "Porque has visto:",
   "unknown_artist": "Artista Desconocido",
   "track_count_one": "{{count}} Reproducción",
+  "track_count_many": "{{count}} Reproducciones",
   "track_count_other": "{{count}} Reproducciones",
   "libraries": "Bibliotecas",
   "section_not_found": "No se ha podido encontrar esta sección.",

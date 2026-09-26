@@ -1,0 +1,13 @@
+[
+    { "code": "en", "label": "English", "country": "US" },
+    { "code": "de", "label": "Deutsch", "country": "DE" },
+    { "code": "sv", "label": "Svenska", "country": "SE" },
+    { "code": "fr", "label": "Français", "country": "FR" },
+    { "code": "pl", "label": "Polski", "country": "PL" },
+    { "code": "pt", "label": "Português", "country": "PT" },
+    { "code": "ja", "label": "日本語", "country": "JP" },
+    { "code": "vi", "label": "Tiếng Việt", "country": "VN" },
+    { "code": "es", "label": "Español", "country": "ES" },
+    { "code": "it", "label": "Italiano", "country": "IT" },
+    { "code": "ro", "label": "Română", "country": "RO" }
+]
