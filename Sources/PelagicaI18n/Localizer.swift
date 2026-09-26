@@ -116,7 +116,7 @@ public struct Localizer: Sendable {
     }
 
     private static func resourcesURL() throws -> URL {
-        guard let url = Bundle.module.url(forResource: "Resources", withExtension: nil) else {
+        guard let url = Bundle.module.url(forResource: "locales", withExtension: nil) else {
             throw LocalizerError.resourcesNotFound
         }
         return url

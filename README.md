@@ -9,11 +9,13 @@ locales/<lang>/<namespace>.json   source of truth (en is the reference language)
 locales/languages.json            supported languages: code, native label, flag country
 src/                              npm package (src/resources.ts is generated)
 scripts/                          generator, validator, plural fixtures
-Sources/PelagicaI18n/             Swift package; Resources is a symlink to ../../locales
+Sources/PelagicaI18n/             Swift package (bundles locales/ directly)
 Tests/PelagicaI18nTests/          Swift tests
 ```
 
 `Package.swift` sits at the repo root because SPM can only resolve a package from the root of a git repository.
+
+The Swift target is rooted at the repo (`path: "."`) so it can bundle `locales/` without a symlink. Older toolchains copy a symlink into the bundle as-is, which breaks it. When you add a new top-level file or folder, add it to `exclude` in `Package.swift`, or SPM warns about unhandled files.
 
 ## Writing translations
 
