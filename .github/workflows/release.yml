@@ -21,7 +21,6 @@ jobs:
               with:
                   node-version: 24
                   cache: pnpm
-                  registry-url: https://registry.npmjs.org
             - name: Tag matches package.json version
               run: |
                   version="$(node -p "require('./package.json').version")"
