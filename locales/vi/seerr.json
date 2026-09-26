@@ -14,7 +14,6 @@
     "seerr_season_column": "Mùa",
     "seerr_episodes_column": "Tập",
     "seerr_status_column": "Trạng thái",
-    "seerr_request_seasons_count_one": "Yêu cầu {{count}} mùa phim",
     "seerr_request_seasons_count_other": "Yêu cầu {{count}} mùa phim",
     "seerr_open_in_seerr": "Mở trong Seerr",
     "seerr_open_in_library": "Mở trong thư viện",

@@ -21,7 +21,7 @@
     "no_artists_found": "Không tìm thấy nghệ sĩ",
     "no_playlists_found": "Không tìm thấy danh sách phát",
     "untitled": "Không tiêu đề",
-    "tracks_count": "{{count}} bài hát",
+    "tracks_count_other": "{{count}} bài hát",
     "back_to_music": "Quay lại Nhạc",
     "play_now": "Phát",
     "shuffle_now": "Phát ngẫu nhiên",
