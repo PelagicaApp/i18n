@@ -2,3 +2,8 @@ node_modules/
 dist/
 src/resources.ts
 .DS_Store
+
+# Swift
+.build/
+.swiftpm/
+Package.resolved
