@@ -189,5 +189,9 @@
     "clear_app_cache_success": "App-Cache erfolgreich gelöscht!",
     "clear_logo_cache_button": "Logo-Cache löschen",
     "clear_logo_cache_success": "Logo-Cache erfolgreich gelöscht!",
-    "reorder_section": "Abschnitte neu anordnen"
+    "reorder_section": "Abschnitte neu anordnen",
+    "attributions_title": "Attributionen",
+    "tmdb_attribution": "Dieses Produkt verwendet die TMDB-API, wird jedoch nicht von TMDB unterstützt oder zertifiziert.",
+    "open_source_licenses_title": "Open-Source-Lizenzen",
+    "pelagica_license_notice": "Pelagica ist freie Software, lizenziert unter der {{license}}. Quellcode: {{url}}"
 }
