@@ -2,5 +2,7 @@
     "who_is_watching": "Who's watching?",
     "add_profile": "Add Profile",
     "switch_profile": "Switch Profile",
-    "back_to_profiles": "Back to Profiles"
+    "back_to_profiles": "Back to Profiles",
+    "remove_profile": "Remove Profile",
+    "couldnt_reach_server": "Couldn't reach {{server}}."
 }

@@ -2,5 +2,7 @@
     "who_is_watching": "Wer schaut gerade?",
     "add_profile": "Profil hinzufügen",
     "switch_profile": "Profil wechseln",
-    "back_to_profiles": "Zurück zu den Profilen"
+    "back_to_profiles": "Zurück zu den Profilen",
+    "remove_profile": "Profil entfernen",
+    "couldnt_reach_server": "{{server}} konnte nicht erreicht werden."
 }
