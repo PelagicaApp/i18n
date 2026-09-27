@@ -49,5 +49,7 @@
     "category_links": "Links",
     "quick_connect": "Quick Connect",
     "back": "Back",
-    "close": "Close"
+    "close": "Close",
+    "couldnt_load_items": "Couldn't load items",
+    "couldnt_load_libraries": "Couldn't load libraries"
 }

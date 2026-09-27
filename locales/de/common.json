@@ -49,5 +49,7 @@
     "category_links": "Links",
     "quick_connect": "Schnellverbindung",
     "back": "Zurück",
-    "close": "Schließen"
+    "close": "Schließen",
+    "couldnt_load_items": "Elemente konnten nicht geladen werden",
+    "couldnt_load_libraries": "Bibliotheken konnten nicht geladen werden"
 }
