@@ -13,5 +13,11 @@
     "no_studios_found": "There are no studios in this library.",
     "clear_search": "Clear search",
     "studios_search_placeholder": "Search studios...",
-    "no_libraries_found": "No libraries found."
+    "no_libraries_found": "No libraries found.",
+    "filter": "Filter",
+    "filter_unwatched": "Unwatched",
+    "filter_in_progress": "In Progress",
+    "filter_watched": "Watched",
+    "no_items_genre_description": "There's nothing in this genre.",
+    "load_items_error": "Couldn't load items."
 }

@@ -13,5 +13,11 @@
     "no_studios_found": "Es gibt keine Studios in dieser Bibliothek.",
     "clear_search": "Suche löschen",
     "studios_search_placeholder": "Studios durchsuchen...",
-    "no_libraries_found": "Keine Bibliotheken gefunden."
+    "no_libraries_found": "Keine Bibliotheken gefunden.",
+    "filter": "Filter",
+    "filter_unwatched": "Ungesehen",
+    "filter_in_progress": "In Bearbeitung",
+    "filter_watched": "Gesehen",
+    "no_items_genre_description": "In diesem Genre gibt es nichts.",
+    "load_items_error": "Elemente konnten nicht geladen werden."
 }
