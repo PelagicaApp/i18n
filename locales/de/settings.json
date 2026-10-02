@@ -193,5 +193,6 @@
     "attributions_title": "Attributionen",
     "tmdb_attribution": "Dieses Produkt verwendet die TMDB-API, wird jedoch nicht von TMDB unterstützt oder zertifiziert.",
     "open_source_licenses_title": "Open-Source-Lizenzen",
-    "pelagica_license_notice": "Pelagica ist freie Software, lizenziert unter der {{license}}. Quellcode: {{url}}"
+    "pelagica_license_notice": "Pelagica ist freie Software, lizenziert unter der {{license}}. Quellcode: {{url}}",
+    "play_theme_songs_label": "Titellieder abspielen"
 }

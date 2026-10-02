@@ -199,5 +199,6 @@
     "attributions_title": "Attributions",
     "tmdb_attribution": "This product uses the TMDB API but is not endorsed or certified by TMDB.",
     "open_source_licenses_title": "Open Source Licenses",
-    "pelagica_license_notice": "Pelagica is free software licensed under the {{license}}. Source code: {{url}}"
+    "pelagica_license_notice": "Pelagica is free software licensed under the {{license}}. Source code: {{url}}",
+    "play_theme_songs_label": "Play Theme Songs"
 }
