@@ -1,0 +1,23 @@
+{
+    "title": "Kütüphane",
+    "no_items_title": "Öge bulunamadı",
+    "no_items_description": "Bu kütüphanede hiç öge yok.",
+    "sort_name": "Ad",
+    "sort_date_added": "Eklenme Tarihi",
+    "sort_premiere_date": "Yayın Tarihi",
+    "sort_community_rating": "Topluluk Derecelendirmesi",
+    "sort_critic_rating": "Eleştirmen Derecelendirmesi",
+    "sort_runtime": "Oynatma Süresi",
+    "no_studios_found_title": "Stüdyo bulunamadı",
+    "no_studios_found_for_search": "'{{search}}' için stüdyo bulunamadı.",
+    "no_studios_found": "Bu kütüphanede hiç stüdyo yok.",
+    "clear_search": "Aramayı Temizle",
+    "studios_search_placeholder": "Stüdyolarda ara...",
+    "no_libraries_found": "Kütüphane bulunamadı.",
+    "filter": "Filtrele",
+    "filter_unwatched": "İzlenmemiş",
+    "filter_in_progress": "Devam Eden",
+    "filter_watched": "İzlenmiş",
+    "no_items_genre_description": "Bu türde hiçbir öge yok.",
+    "load_items_error": "Ögeler yüklenemedi."
+}

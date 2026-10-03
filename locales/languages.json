@@ -9,5 +9,6 @@
     { "code": "vi", "label": "Tiếng Việt", "country": "VN" },
     { "code": "es", "label": "Español", "country": "ES" },
     { "code": "it", "label": "Italiano", "country": "IT" },
-    { "code": "ro", "label": "Română", "country": "RO" }
+    { "code": "ro", "label": "Română", "country": "RO" },
+    { "code": "tr", "label": "Türkçe", "country": "TR" }
 ]
