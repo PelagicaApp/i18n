@@ -26,7 +26,6 @@
   "time_remaining": "{{time}} 剩余时间",
   "time_remaining_unknown": "剩余时间未知",
   "title": "主页",
-  "track_count_one": " {{count}} 首",
   "track_count_other": "{{count}} 首",
   "unknown_artist": "未知艺人",
   "view_all": "查看全部"

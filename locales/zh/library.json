@@ -7,11 +7,11 @@
   "no_studios_found_for_search": "没有找到与“{{search}}”匹配的工作室。",
   "no_studios_found_title": "未找到工作室",
   "sort_community_rating": "社区评分",
-  "sort_critic_rating": " 影评人评分",
+  "sort_critic_rating": "影评人评分",
   "sort_date_added": "添加日期",
   "sort_name": "名称",
   "sort_premiere_date": "首映日期",
   "sort_runtime": "播放耗时",
-  "studios_search_placeholder": " 搜索工作室……",
+  "studios_search_placeholder": "搜索工作室……",
   "title": "影视库"
 }

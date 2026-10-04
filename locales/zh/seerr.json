@@ -9,7 +9,6 @@
   "seerr_open_in_seerr": "在 Seerr 中打开",
   "seerr_request": "要求",
   "seerr_request_failed": "请求提交失败",
-  "seerr_request_seasons_count_one": "请求 {{count}} 季",
   "seerr_request_seasons_count_other": "请求 {{count}} 季",
   "seerr_request_success": "已提交请求",
   "seerr_requesting": "正在请求……",
