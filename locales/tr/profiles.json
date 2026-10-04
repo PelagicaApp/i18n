@@ -1,0 +1,8 @@
+{
+    "who_is_watching": "Kim izliyor?",
+    "add_profile": "Profil Ekle",
+    "switch_profile": "Profil Değiştir",
+    "back_to_profiles": "Profillere Geri Dön",
+    "remove_profile": "Profili Kaldır",
+    "couldnt_reach_server": "{{server}} sunucusuna ulaşılamadı."
+}
