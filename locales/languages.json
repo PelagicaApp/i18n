@@ -10,5 +10,6 @@
     { "code": "es", "label": "Español", "country": "ES" },
     { "code": "it", "label": "Italiano", "country": "IT" },
     { "code": "ro", "label": "Română", "country": "RO" },
-    { "code": "tr", "label": "Türkçe", "country": "TR" }
+    { "code": "tr", "label": "Türkçe", "country": "TR" },
+    { "code": "zh", "label": "中文", "country": "CN" }
 ]

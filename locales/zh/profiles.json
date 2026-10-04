@@ -1,0 +1,8 @@
+{
+  "add_profile": "添加个人资料",
+  "back_to_profiles": "返回个人资料",
+  "couldnt_reach_server": "无法连接到 {{server}}。",
+  "remove_profile": "删除个人资料",
+  "switch_profile": "切换配置文件",
+  "who_is_watching": "谁在看？"
+}
