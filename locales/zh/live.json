@@ -11,7 +11,7 @@
   "guide_episode": "第 {{number}} 集",
   "guide_no_data": "无节目信息",
   "guide_now": "现在",
-  "guide_season": "季 {{number}}",
+  "guide_season": "第 {{number}} 季",
   "guide_watch_channel": "观看频道",
   "no_channels_description": "此服务器上没有可用的直播电视频道。",
   "no_channels_title": "未找到直播频道",

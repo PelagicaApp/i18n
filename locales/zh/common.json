@@ -49,5 +49,7 @@
   "tags": "标签",
   "upload": "上传",
   "uploading": "正在上传...",
-  "yes": "是的"
+  "yes": "是的",
+  "episode_count_one": "第 {{count}} 集",
+  "season_count_one": "第 {{count}} 季"
 }

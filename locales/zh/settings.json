@@ -199,5 +199,6 @@
   "watched_state_badge_search_label": "在搜索结果页面显示观看状态标签",
   "watched_state_badges": "观看状态标签",
   "watched_state_badges_description": "配置海报上已观看状态标签的显示效果",
-  "xlarge": "超大尺寸"
+  "xlarge": "超大尺寸",
+  "play_theme_songs_label": "播放主题曲"
 }

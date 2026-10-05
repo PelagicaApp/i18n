@@ -13,5 +13,11 @@
   "sort_premiere_date": "首映日期",
   "sort_runtime": "播放耗时",
   "studios_search_placeholder": "搜索工作室……",
-  "title": "影视库"
+  "title": "影视库",
+  "filter": "筛选",
+  "filter_in_progress": "进行中",
+  "filter_unwatched": "未观看",
+  "filter_watched": "已观看",
+  "load_items_error": "无法加载",
+  "no_items_genre_description": "这个类型里没有任何项目。"
 }

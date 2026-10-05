@@ -24,5 +24,6 @@
   "seerr_status_processing": "处理中",
   "seerr_status_unavailable": "无法使用",
   "seerr_tv_show": "电视节目",
-  "seerr_watch_trailer": "观看预告片"
+  "seerr_watch_trailer": "观看预告片",
+  "seerr_request_seasons_count_one": "请求第 {{count}} 季"
 }

@@ -40,5 +40,6 @@
   "theme": "主题",
   "theme_preference": "主题偏好",
   "unknown_user": "未知用户",
-  "username": "用户名"
+  "username": "用户名",
+  "app_icon": "应用图标"
 }
