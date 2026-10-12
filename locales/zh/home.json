@@ -23,10 +23,11 @@
   "seerr_popular_movies": "热门电影",
   "seerr_popular_series": "热门剧集",
   "seerr_trending": "热门",
-  "time_remaining": "{{time}} 剩余时间",
+  "time_remaining": "剩余时间 {{time}}",
   "time_remaining_unknown": "剩余时间未知",
   "title": "主页",
-  "track_count_other": "{{count}} 首",
+  "track_count_other": "{{count}} 轨",
   "unknown_artist": "未知艺人",
-  "view_all": "查看全部"
+  "view_all": "查看全部",
+  "track_count_one": "第 {{count}} 首"
 }

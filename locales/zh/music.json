@@ -30,5 +30,6 @@
   "songs": "歌曲",
   "title": "音乐",
   "tracks_count_other": "{{count}} 首曲目",
-  "untitled": "无题"
+  "untitled": "无题",
+  "tracks_count_one": " {{count}} 轨"
 }
