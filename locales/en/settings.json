@@ -230,5 +230,6 @@
     "subtitle_bold": "Bold Text",
     "subtitle_preview_text": "The quick brown fox jumps over the lazy dog.",
     "subtitle_style_description": "Applies to text subtitles such as SubRip and WebVTT, and syncs to your other Pelagica devices.",
-    "subtitle_style_reset": "Reset"
+    "subtitle_style_reset": "Reset",
+    "configuration_notice": "Pelagica can be configured through the web or desktop app. Learn more at {{url}}"
 }

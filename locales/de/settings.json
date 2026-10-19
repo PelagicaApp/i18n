@@ -226,5 +226,6 @@
     "subtitle_bold": "Fetter Text",
     "subtitle_preview_text": "Zwölf Boxkämpfer jagen Viktor quer über den großen Sylter Deich.",
     "subtitle_style_description": "Gilt für Textuntertitel wie SubRip und WebVTT und wird mit deinen anderen Pelagica-Geräten synchronisiert.",
-    "subtitle_style_reset": "Zurücksetzen"
+    "subtitle_style_reset": "Zurücksetzen",
+    "configuration_notice": "Pelagica kann über die Web- oder Desktop-App konfiguriert werden. Weitere Informationen unter {{url}}"
 }
