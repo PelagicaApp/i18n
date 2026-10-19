@@ -1,0 +1,19 @@
+version: '3'
+
+tasks:
+    version:
+        desc: Push a new version tag to GitHub
+        requires:
+            vars: [VERSION]
+        preconditions:
+            - sh: echo "{{.VERSION}}" | grep -Eq '^[0-9]+\.[0-9]+\.[0-9]+$'
+              msg: 'VERSION must look like 1.2.3 (no leading "v")'
+            - sh: '[ -z "$(git status --porcelain)" ]'
+              msg: 'Working tree is dirty'
+            - sh: '[ "$(git branch --show-current)" = "main" ]'
+              msg: 'Must be on main'
+            - sh: '! git rev-parse -q --verify refs/tags/v{{.VERSION}}'
+              msg: 'Tag v{{.VERSION}} already exists locally'
+        cmds:
+            - git push origin HEAD:refs/tags/v{{.VERSION}}
+            - git tag v{{.VERSION}}
