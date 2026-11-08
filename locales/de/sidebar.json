@@ -50,5 +50,9 @@
     "passwords_do_not_match": "Passwörter stimmen nicht überein",
     "change_password_failed": "Das Passwort konnte nicht geändert werden. Überprüfe dein aktuelles Passwort und versuche es erneut.",
     "change_password_success": "Dein Passwort wurde geändert",
-    "changing_password": "Änderung läuft…"
+    "changing_password": "Änderung läuft…",
+    "change_avatar": "Avatar ändern",
+    "avatar_updated": "Dein Avatar wurde aktualisiert",
+    "avatar_update_failed": "Der Avatar konnte nicht aktualisiert werden",
+    "avatar_invalid_file": "Bitte wähle eine Bilddatei"
 }

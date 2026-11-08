@@ -50,5 +50,9 @@
     "passwords_do_not_match": "Passwords do not match",
     "change_password_failed": "Could not change your password. Check your current password and try again.",
     "change_password_success": "Your password has been changed",
-    "changing_password": "Changing…"
+    "changing_password": "Changing…",
+    "change_avatar": "Change avatar",
+    "avatar_updated": "Your avatar has been updated",
+    "avatar_update_failed": "Could not update your avatar",
+    "avatar_invalid_file": "Please choose an image file"
 }
