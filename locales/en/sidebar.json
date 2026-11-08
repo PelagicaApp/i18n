@@ -41,5 +41,14 @@
     "app_icon_classic": "Classic",
     "app_icon_classic_light": "Classic Light",
     "app_icon_pride": "Pride",
-    "app_icon_pride_light": "Pride Light"
+    "app_icon_pride_light": "Pride Light",
+    "change_password": "Change password",
+    "change_password_description": "Update the password for your Jellyfin account.",
+    "current_password": "Current password",
+    "new_password": "New password",
+    "confirm_new_password": "Confirm new password",
+    "passwords_do_not_match": "Passwords do not match",
+    "change_password_failed": "Could not change your password. Check your current password and try again.",
+    "change_password_success": "Your password has been changed",
+    "changing_password": "Changing…"
 }

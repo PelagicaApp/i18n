@@ -41,5 +41,14 @@
     "app_icon_classic": "Klassisch",
     "app_icon_classic_light": "Klassisch Hell",
     "app_icon_pride": "Pride",
-    "app_icon_pride_light": "Pride Hell"
+    "app_icon_pride_light": "Pride Hell",
+    "change_password": "Passwort ändern",
+    "change_password_description": "Aktualisiere das Passwort für deinen Jellyfin-Account.",
+    "current_password": "Aktuelles Passwort",
+    "new_password": "Neues Passwort",
+    "confirm_new_password": "Neues Passwort bestätigen",
+    "passwords_do_not_match": "Passwörter stimmen nicht überein",
+    "change_password_failed": "Das Passwort konnte nicht geändert werden. Überprüfe dein aktuelles Passwort und versuche es erneut.",
+    "change_password_success": "Dein Passwort wurde geändert",
+    "changing_password": "Änderung läuft…"
 }
