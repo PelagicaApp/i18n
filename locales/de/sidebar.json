@@ -54,5 +54,8 @@
     "change_avatar": "Avatar ändern",
     "avatar_updated": "Dein Avatar wurde aktualisiert",
     "avatar_update_failed": "Der Avatar konnte nicht aktualisiert werden",
-    "avatar_invalid_file": "Bitte wähle eine Bilddatei"
+    "avatar_invalid_file": "Bitte wähle eine Bilddatei",
+    "crop_avatar_description": "Ziehe und zoomen, um auszuwählen, wie dein Avatar gerahmt ist.",
+    "zoom": "Zoomen",
+    "preview": "Vorschau"
 }

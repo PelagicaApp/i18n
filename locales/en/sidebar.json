@@ -54,5 +54,8 @@
     "change_avatar": "Change avatar",
     "avatar_updated": "Your avatar has been updated",
     "avatar_update_failed": "Could not update your avatar",
-    "avatar_invalid_file": "Please choose an image file"
+    "avatar_invalid_file": "Please choose an image file",
+    "crop_avatar_description": "Drag and zoom to choose how your avatar is framed.",
+    "zoom": "Zoom",
+    "preview": "Preview"
 }
