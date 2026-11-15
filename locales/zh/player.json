@@ -63,5 +63,6 @@
   "unknown": "未知",
   "unknownLanguage": "未知语言",
   "unsyncedLyrics": "歌词不同步",
-  "upNext": "下一集将在 {{seconds}} 秒后播出"
+  "upNext": "下一集将在 {{seconds}} 秒后播出",
+  "versions": "版本"
 }
