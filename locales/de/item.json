@@ -154,5 +154,6 @@
     "nothing_in_genre": "In diesem Genre gibt es noch nichts.",
     "go_to_series": "Zur Serie gehen",
     "playlist_items": "Playlist-Elemente",
-    "shuffle": "Zufällig abspielen"
+    "shuffle": "Zufällig abspielen",
+    "remove_from_playlist": "Aus Playlist entfernen"
 }
